@@ -1,0 +1,30 @@
+body {
+    background: #003981;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.button {
+    padding: 18 px 20px 18px 20px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    color: #363F54;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.7px;
+    display: flex;
+}
+
+.mr-3 {
+    margin-right: 3px;
+}
+
+.letter {
+    transition-property: transform;
+    transition-duration: 0.1s;
+}
