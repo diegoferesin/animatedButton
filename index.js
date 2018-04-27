@@ -7,10 +7,10 @@ buttonNode.addEventListener("mouseover", funtion(){
     for (var i = 0; i <lettersNodes.length; i++) {
     // 2. Que algunas letras se muevan hacia arriba
         if (i % 2 === 0){
-            lettersNodes[i].style.transform = "traslateY(10px) rotate(5deg)"
+            lettersNodes[i].style.transform = "traslateY(10px) rotate(15deg)"
     }   else {
         // 3. Y otras hacia abajo
-        lettersNodes[i].style.transform = "traslateY(-10px) rotate(-5deg)"
+        lettersNodes[i].style.transform = "traslateY(-10px) rotate(-15deg)"
         }
     }  
 })
