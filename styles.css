@@ -1,5 +1,5 @@
 body {
-    background: #2b285e;
+    background: #64c96b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,7 +12,7 @@ body {
     background-color: #FFFFFF;
     cursor: pointer;
     border: none;
-    color: #c92b39;
+    color: #232766;
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 13px;
